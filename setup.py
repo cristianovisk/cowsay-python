@@ -9,7 +9,7 @@ CLASSIFIERS = [
 ]
 
 setup(name='cowsay',
-      version='5.0',
+      version='6.0',
       url='https://github.com/VaasuDevanS/cowsay-python',
       license='GNU-GPL',
       author='Vaasudevan Srinivasan',
