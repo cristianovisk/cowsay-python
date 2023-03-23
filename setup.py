@@ -8,8 +8,8 @@ CLASSIFIERS = [
     "Programming Language :: Python :: 3.9",
 ]
 
-setup(name='cowsay',
-      version='6.0',
+setup(name='cowsay2',
+      version='6.4',
       url='https://github.com/VaasuDevanS/cowsay-python',
       license='GNU-GPL',
       author='Vaasudevan Srinivasan',

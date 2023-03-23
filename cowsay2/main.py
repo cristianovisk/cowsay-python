@@ -6,7 +6,7 @@ import re
 import urllib3
 from .characters import CHARS
 
-__version__ = '6.1'
+__version__ = '5.0.2'
 
 char_names = list(CHARS.keys())
 
