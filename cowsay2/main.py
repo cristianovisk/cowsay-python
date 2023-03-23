@@ -4,7 +4,7 @@ import re
 
 from .characters import CHARS
 
-__version__ = '5.2'
+__version__ = '5.3'
 
 char_names = list(CHARS.keys())
 
